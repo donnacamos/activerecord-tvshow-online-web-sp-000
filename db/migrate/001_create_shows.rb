@@ -1,3 +1,4 @@
 class CreateShows < ActiveRecord::Migration[4.2] 
-  def create_
+  def change 
+    create_table 
 end 
