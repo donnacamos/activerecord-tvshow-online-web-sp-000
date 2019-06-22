@@ -19,5 +19,5 @@ class Show < ActiveRecord::Base
     Show.sum("rating") 
   end 
   
-  def 
+  def Show::pop
 end 
